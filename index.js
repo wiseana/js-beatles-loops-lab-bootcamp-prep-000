@@ -7,4 +7,4 @@ function johnLennonFacts(facts) {
   var array2=[]; 
   while (count<facts.length) {array2.push (`${facts[count]}!!!`); ++count;}
   return array2;} 
-  
+  function iLoveTheBeatles(number) {var array3=[]; do {array3.push ("I love the Beatles!"); --number} while (number<15 && number>=0); return array3;}
